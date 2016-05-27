@@ -1,0 +1,4 @@
+C:\Venkat\DesignPatterns\DessignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Venkat\DesignPatterns\DessignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Venkat\DesignPatterns\DessignPatterns\Singleton\obj\x86\Debug\Singleton.exe
+C:\Venkat\DesignPatterns\DessignPatterns\Singleton\obj\x86\Debug\Singleton.pdb

@@ -1,0 +1,4 @@
+C:\Venkat\DesignPatterns\DessignPatterns\Sample\bin\Debug\Sample.exe
+C:\Venkat\DesignPatterns\DessignPatterns\Sample\bin\Debug\Sample.pdb
+C:\Venkat\DesignPatterns\DessignPatterns\Sample\obj\x86\Debug\Sample.exe
+C:\Venkat\DesignPatterns\DessignPatterns\Sample\obj\x86\Debug\Sample.pdb

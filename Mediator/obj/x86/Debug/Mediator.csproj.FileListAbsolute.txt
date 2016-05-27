@@ -1,0 +1,4 @@
+C:\Venkat\DesignPatterns\DessignPatterns\Mediator\bin\Debug\Mediator.exe
+C:\Venkat\DesignPatterns\DessignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Venkat\DesignPatterns\DessignPatterns\Mediator\obj\x86\Debug\Mediator.exe
+C:\Venkat\DesignPatterns\DessignPatterns\Mediator\obj\x86\Debug\Mediator.pdb

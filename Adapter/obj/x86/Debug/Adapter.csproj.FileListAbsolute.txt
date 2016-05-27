@@ -1,0 +1,4 @@
+C:\Venkat\DesignPatterns\DessignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Venkat\DesignPatterns\DessignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Venkat\DesignPatterns\DessignPatterns\Adapter\obj\x86\Debug\Adapter.exe
+C:\Venkat\DesignPatterns\DessignPatterns\Adapter\obj\x86\Debug\Adapter.pdb

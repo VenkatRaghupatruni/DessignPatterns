@@ -1,0 +1,4 @@
+C:\Venkat\DesignPatterns\DessignPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Venkat\DesignPatterns\DessignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Venkat\DesignPatterns\DessignPatterns\Visitor\obj\x86\Debug\Visitor.exe
+C:\Venkat\DesignPatterns\DessignPatterns\Visitor\obj\x86\Debug\Visitor.pdb

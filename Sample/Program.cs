@@ -4,9 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Security.Cryptography;
 
-
-
-
 namespace Sample
 {
     class Program
